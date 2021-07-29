@@ -14,8 +14,8 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Hind:wght@400;700&amp;family=Manrope:wght@200;300;400;600;700;800&amp;display=swap" rel="stylesheet">
-    <!-- Vendor CSS Files -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
     <link href="vendor/remixicon/remixicon.css" rel="stylesheet">
     <link href="vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
@@ -23,9 +23,9 @@
     <link href="vendor/venobox/venobox.css" rel="stylesheet">
     <link href="vendor/page-pilling/jquery.pagepiling.css" rel="stylesheet">
     <link href="vendor/gallery/justifiedGallery.css" rel="stylesheet">
-    <!-- Template Main CSS File -->
     <link href="css/template1.css" rel="stylesheet">
-    <script src="unpkg.com/%40lottiefiles/lottie-player%40latest/dist/lottie-player.js"></script>
+    <script src="unpkg.com/%40lottiefiles/lottie-player%40latest/dist/lottie-player.js"></script> -->
+
 </head>
 
 <body class="body-v-three">
@@ -604,8 +604,8 @@
         </div>
     </div>
     <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-    <!-- Vendor JS Files -->
-    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="vendor/jquery.easing/jquery.easing.min.js"></script>
     <script src="vendor/waypoints/jquery.waypoints.min.js"></script>
@@ -617,9 +617,9 @@
     <script src="vendor/waypoints/waypoints.menu.pagepilling.min.js"></script>
     <script src="vendor/page-pilling/jquery.pagepiling.js"></script>
     <script src="vendor/gallery/jquery.justifiedGallery.js"></script>
-    <!-- Template Main JS File -->
     <script src="js/main.js"></script>
-    <script src="js/main-v-three.js"></script>
+    <script src="js/main-v-three.js"></script> -->
+
 </body>
 
 </html>
